@@ -1,0 +1,7 @@
+name: CustomChunkLimit
+version: '${project.version}'
+main: ru.customchunklimit.Main
+api-version: 1.16
+authors: [ Dimianas ]
+description: This plugin create for custom limit all block per chunk
+website: https://2k2f.site/
